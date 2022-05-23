@@ -3,9 +3,14 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfoTrack", "InfoTrack\InfoTrack.csproj", "{B531682B-B3D5-469A-925C-63E1F4CD0A78}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InfoTrack", "InfoTrack\InfoTrack.csproj", "{B531682B-B3D5-469A-925C-63E1F4CD0A78}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfoTrack.Tests", "InfoTrack.Tests\InfoTrack.Tests.csproj", "{3180B9DA-FAA1-4A1E-94C9-0031EBF47C6E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InfoTrack.Tests", "InfoTrack.Tests\InfoTrack.Tests.csproj", "{3180B9DA-FAA1-4A1E-94C9-0031EBF47C6E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionItems", "{FA63B138-BFF8-49A4-8571-7D4EC1D843ED}"
+	ProjectSection(SolutionItems) = preProject
+		readme.md = readme.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
