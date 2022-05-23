@@ -7,7 +7,7 @@
 > Currently there are no unit tests configured due to time constraints on delivering this task. 
 > Repository and unit of work pattern has been used for separation of concerns. 
 > Validation is done on model's construction level and service layer.
-> `main` branch has been locked due to repository being public. Any changes should be done on a `feature` branch and a **PR** should be created.
+> Please contact for collaboration. `main` branch has been locked, any changes should be done on a `feature` branch and a **PR** should be created.
 
 ## TODO List
 
