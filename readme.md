@@ -4,5 +4,6 @@
 * Repository and unit of work pattern has been used for separation of concerns. 
 * Validation is done on model's construction level and service layer.
 
-* TODO: DAL to be configured in a new project. 
 * TODO: Configure unit tests. 
+* TODO: DAL to be configured in a new project. 
+* TODO: Handle exceptions to be configured in Program.cs
