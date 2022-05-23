@@ -11,7 +11,7 @@
 
 ## TODO List
 
-* TODO: Configure unit tests. 
-* TODO: DAL to be configured in a new project. 
-* TODO: Handle exceptions to be configured in Program.cs
-* TODO: Method summaries should be completed for documentation purposes. 
+* Configure unit tests. 
+* DAL to be configured in a new project. 
+* Handle exceptions to be configured in Program.cs
+* Method summaries should be completed for documentation purposes. 
