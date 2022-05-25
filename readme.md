@@ -14,7 +14,6 @@
 
 ## TODO List
 
-* Configure unit tests. 
+* Extend unit test coverage and create fixtures
 * DAL to be configured in a new project. 
-* Handle exceptions to be configured in Program.cs
-* Method summaries should be completed for documentation purposes. 
+* Method summaries should be completed for documentation purposes.
