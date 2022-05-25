@@ -1,5 +1,6 @@
 using System.Reflection;
 using InfoTrack.Abstract;
+using InfoTrack.Helpers;
 using InfoTrack.Models;
 using InfoTrack.Repositories;
 using InfoTrack.Services;
@@ -63,5 +64,8 @@ using (var serviceScope = app.Services.CreateScope())
     context.Bookings.Add(new Booking("John Smith", "09:30"));
     await context.SaveChangesAsync();
 }
+
+// global error handler
+app.UseMiddleware<ErrorHandlerMiddleware>();
 
 app.Run();
